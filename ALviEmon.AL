@@ -15,8 +15,8 @@
 
 * git clone https://github.com/ALviEmon/alvi
 
-* cd alvi
+* cd alviemon
 
-* python2 alvi.py
+* python2 alviemon.py
 
 # Thank you 
