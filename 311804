@@ -62,10 +62,10 @@ logo = """
        facebook:facebook.com/ALvi.officials2.0
 \033[1;91m=======================================
 \033[1;96mAuthor  \033[1;93m: \033[1;98m Alvi Emon
-
-\033[1;96mInstagram \033[1;93m: \033[1: N/A
-\033[1;96mFacebook  \033[1;93m: \033[1: Easin.Official0
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/SmartBoyEasin/SmartBoy
+\003[1;97mFB Page \003[1;93m: \003[1:98m @alviofficials.page
+\033[1;96mWebsite \033[1;93m: \033[1:98m www.royalforce71.com
+\033[1;96mFacebook  \033[1;93m: \033[1:98m ALvi.officials2.0
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/ALviEmon/alvi
 \033[1;91m======================================="""
 
 def tik():
@@ -91,7 +91,7 @@ print  """\033[1;91m
 ▒█▀▀▀█ ▒█▀▄▀█ ░█▀▀█ ▒█▀▀█ ▀▀█▀▀ 
 ░▀▀▀▄▄ ▒█▒█▒█ ▒█▄▄█ ▒█▄▄▀ ░▒█░░ 
 ▒█▄▄▄█ ▒█░░▒█ ▒█░▒█ ▒█░▒█ ░▒█░░
-       Facebook:Smart Boy Easin
+       Facebook:Alvi Emon
  
 \033[1;96mAuthor  \033[1;93m: \033[1;92mSmart Boy Easin
 \033[1;96mInstagram \033[1;93m: \033[1;92mmd_easin
